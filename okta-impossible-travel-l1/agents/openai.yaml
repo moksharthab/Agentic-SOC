@@ -1,0 +1,4 @@
+interface:
+  display_name: "Okta Impossible Travel L1"
+  short_description: "L1 triage runbook for Okta impossible-travel alerts"
+  default_prompt: "Use $okta-impossible-travel-l1 to triage Okta impossible-travel case <CASE_ID> in SecOps SOAR."
